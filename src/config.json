@@ -1,0 +1,5 @@
+{
+    "OpenSearchUrl" : "<URL Open Search>",
+    "AWSRegion" : "us-east-1",
+    "TableName" : "assetMetadata"
+}
