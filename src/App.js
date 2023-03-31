@@ -74,12 +74,12 @@ function App() {
       </div>
       </section>
       <br/>
-      <div style={{display: 'flex',  justifyContent:'center'}}>
+      {/* <div style={{display: 'flex',  justifyContent:'center'}}>
         <label>Search Metadata</label> 
         <input id="search" autocomplete="off" placeholder="Search Metadata"></input>
         <button onClick={searchMetadata}>Search</button>
         <label>{searchedMetdata}</label> 
-      </div>
+      </div> */}
       <br/>
       <br/>
       <div style={{display: 'flex',  justifyContent:'left'}}>
